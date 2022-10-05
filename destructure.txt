@@ -1,0 +1,22 @@
+var data =[
+  {
+    avatar:AVTR1,
+    jina:"Mahad Said",
+    review: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos eum dicta numquam dolores doloribus necessitatibus omnis, ipsa deserunt blanditiis rerum ducimus veritatis quo, quidem voluptas tenetur debitis reiciendis minima dignissimos!"
+  },
+  {
+    avatar:AVTR2,
+    jina:"Khadija Said",
+    review: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos eum dicta numquam dolores doloribus necessitatibus omnis, ipsa deserunt blanditiis rerum ducimus veritatis quo, quidem voluptas tenetur debitis reiciendis minima dignissimos!"
+  },
+  {
+    avatar:AVTR3,
+    jina:"Abdul Musa",
+    review: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos eum dicta numquam dolores doloribus necessitatibus omnis, ipsa deserunt blanditiis rerum ducimus veritatis quo, quidem voluptas tenetur debitis reiciendis minima dignissimos!"
+  },
+  {
+    avatar:AVTR4,
+    jina:"Aisha Ahmad",
+    review: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos eum dicta numquam dolores doloribus necessitatibus omnis, ipsa deserunt blanditiis rerum ducimus veritatis quo, quidem voluptas tenetur debitis reiciendis minima dignissimos!"
+  }
+];
