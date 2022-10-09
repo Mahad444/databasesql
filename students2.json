@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "634028cd93eccf850ec20526"
+  },
+  "firstname": "Mahad",
+  "lastname": "Said",
+  "gender": "M",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63402c9193eccf850ec20528"
+  },
+  "firstname": "Mahad",
+  "lastname": "Said",
+  "gender": "M",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63402daa9724547b4ab4dcf6"
+  },
+  "firstname": "Edwin",
+  "lastname": "Oduor",
+  "gender": "M",
+  "__v": 0
+}]
