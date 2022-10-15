@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "6345d57654320701f46d4074"
+  },
+  "title": "Blossoms Of The Savannah",
+  "author": "Henry Ole Kulet",
+  "pages": 300,
+  "genre": [
+    "fantasy",
+    "magic",
+    "palylist"
+  ],
+  "rating": 8
+},{
+  "_id": {
+    "$oid": "6345d81154320701f46d4075"
+  },
+  "title": "Tumbo Lisiloshiba",
+  "author": "Ken Walibora",
+  "pages": 250,
+  "genre": [
+    "fantasy",
+    "fasihi",
+    "Shairi"
+  ],
+  "rating": 7
+},{
+  "_id": {
+    "$oid": "6345d81154320701f46d4076"
+  },
+  "title": "The Pearl",
+  "author": "Issa Ayoub",
+  "pages": 350,
+  "genre": [
+    "comedy",
+    "dream life",
+    "poetry"
+  ]
+},{
+  "_id": {
+    "$oid": "63472146def25f5aa9b3fc59"
+  },
+  "title": "Mstahiki Meya",
+  "author": "Ken Walibora",
+  "pages": 430,
+  "reviews": [
+    {
+      "review": "Good book",
+      "rating": 7
+    },
+    {
+      "review": "Great Book though!!",
+      "rating": 5
+    }
+  ]
+}]
