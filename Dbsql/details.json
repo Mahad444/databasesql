@@ -53,4 +53,15 @@
       "rating": 5
     }
   ]
+},{
+  "_id": {
+    "$oid": "634e3c3ccc390d932f0863f3"
+  },
+  "reviews": [
+    {
+      "name": "Khadija Said",
+      "review": "Kitabu Fiti",
+      "rating": 8
+    }
+  ]
 }]
