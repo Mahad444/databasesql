@@ -124,4 +124,11 @@
   "email": "hakimi@gmail.com",
   "password": "ggggggggg66",
   "__v": 0
+},{
+  "_id": {
+    "$oid": "63566bbb2966435b4cc721e3"
+  },
+  "email": "mahad78@icloud.com",
+  "password": "$2b$10$FMa4oiHqWwezYmFRzIke2uDKcLILfpMls7GcMoxfwcdfeaea05y9u",
+  "__v": 0
 }]
