@@ -4,13 +4,13 @@
   },
   "title": "Blossoms Of The Savannah",
   "author": "Henry Ole Kulet",
-  "pages": 300,
+  "pages": 630,
   "genre": [
     "fantasy",
     "magic",
     "palylist"
   ],
-  "rating": 8
+  "rating": 20
 },{
   "_id": {
     "$oid": "6345d81154320701f46d4075"
@@ -55,13 +55,14 @@
   ]
 },{
   "_id": {
-    "$oid": "634e3c3ccc390d932f0863f3"
+    "$oid": "63599ad6820c62e2234f88e5"
   },
-  "reviews": [
-    {
-      "name": "Khadija Said",
-      "review": "Kitabu Fiti",
-      "rating": 8
-    }
+  "title": "The Forgotten Lands",
+  "autor": "Ali Said",
+  "pages": 700,
+  "genre": [
+    "fantasy",
+    "entatainment",
+    "comedy"
   ]
 }]

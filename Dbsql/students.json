@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "634028cd93eccf850ec20526"
+  },
+  "firstname": "Mahad",
+  "lastname": "Said",
+  "gender": "M",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63402daa9724547b4ab4dcf6"
+  },
+  "firstname": "Edwin",
+  "lastname": "Oduor",
+  "gender": "M",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634566a6e75a19aa970036c6"
+  },
+  "firstname": "Khadija",
+  "lastname": "Said",
+  "gender": "F",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6346e9453d792d68ae6e7d8c"
+  },
+  "firstname": "Naima",
+  "lastname": "Ibrahim",
+  "gender": "F",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6347f4e911f8d37f4e5714c5"
+  },
+  "firstname": "Naima",
+  "lastname": "Ibrahim",
+  "gender": "F",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634802379d6747a2211d723e"
+  },
+  "firstname": "Libaanka",
+  "lastname": "Abdullahi Ali",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63480455f7d109d6bff51197"
+  },
+  "firstname": "Libaan",
+  "lastname": "Abdullahi",
+  "gender": "M",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6357dcfa5ad0835f2f861973"
+  },
+  "firstname": "Samuel",
+  "lastname": "Mmoja",
+  "__v": 0
+}]
