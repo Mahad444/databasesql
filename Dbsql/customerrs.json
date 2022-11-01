@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "63618944aae5fe1d50d70425"
+  },
+  "customerName": "Muhib Said",
+  "customerNumber": "07345643",
+  "password": "qwerty123",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636189f4ba0e0c8204a0f6ba"
+  },
+  "customerName": "Mahad Said",
+  "customerNumber": "0734564367",
+  "password": "qwerty123",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63618a4be760b20532225e94"
+  },
+  "customerName": "Mahad Said",
+  "customerNumber": "0734564397",
+  "password": "qwerty123",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63618ac4745a3dbd8f0b5ad3"
+  },
+  "customerName": "Mahad Said",
+  "customerNumber": "0734554397",
+  "password": "qwerty123",
+  "__v": 0
+}]

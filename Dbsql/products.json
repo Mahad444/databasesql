@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6361777cbd9f0a1a3c591c76"
+  },
+  "productName": "Butter",
+  "price": "320",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636177bec4366419fb396f61"
+  },
+  "productName": "Butter",
+  "price": "320",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636177d2c4366419fb396f64"
+  },
+  "productName": "Milk",
+  "price": "50",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636177e9c4366419fb396f67"
+  },
+  "productName": "Bread",
+  "price": "60",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6361780a99e8a5237cf74ad2"
+  },
+  "productName": "Cooking Oil",
+  "price": "700",
+  "__v": 0
+}]
