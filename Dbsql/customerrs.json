@@ -30,4 +30,276 @@
   "customerNumber": "0734554397",
   "password": "qwerty123",
   "__v": 0
+},{
+  "_id": {
+    "$oid": "636223d786c69c1ac4a38ac1"
+  },
+  "customerName": "Mahad Said",
+  "customerNumber": "0722999007",
+  "password": "qwerty123",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362241f86c69c1ac4a38ac5"
+  },
+  "customerName": "John Doe",
+  "customerNumber": "0722999097",
+  "password": "qwerty123",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63625b5a2694247975a4050e"
+  },
+  "customerName": "shuaib Doe",
+  "customerNumber": "0922999097",
+  "password": "qwerty123",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636266955f7e4a7024e5ec05"
+  },
+  "customerName": "John Doe",
+  "customerNumber": "0722999087",
+  "password": "qwerty123",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636266a55f7e4a7024e5ec08"
+  },
+  "customerName": "nate Doe",
+  "customerNumber": "07229990677",
+  "password": "qwerty123",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636266da5f7e4a7024e5ec0b"
+  },
+  "customerName": "nate Doe",
+  "customerNumber": "09229990677",
+  "password": "qwerty123",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362691e69029633b17b868d"
+  },
+  "customerName": "nate Doe",
+  "customerNumber": "09225990677",
+  "password": "qwerty123",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362d98018ed68efc8e99170"
+  },
+  "customerNumber": "09225990617",
+  "password": "qwerty12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362d9b346f713d5a89d0692"
+  },
+  "customerNumber": "06225990617",
+  "password": "qwerty12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362d9f07fe5088958f2ac0d"
+  },
+  "customerNumber": "05225990617",
+  "password": "qwerty12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362da735d5f7aca87dfa49c"
+  },
+  "customerNumber": "00225990617",
+  "password": "qwerty12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362dbc3e2ba62a37c70a0ff"
+  },
+  "customerNumber": "00225990617",
+  "password": "qwerty12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362dbe8164b07603fe21dab"
+  },
+  "customerNumber": "00225990617",
+  "password": "qwerty12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362dc9314d5c3788b740889"
+  },
+  "customerNumber": "00225990617",
+  "password": "qwerty12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362ddb0befd293f9e3ee130"
+  },
+  "customerNumber": "0652259907",
+  "password": "qwerty12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362de49632bd7885e6445b7"
+  },
+  "customerNumber": "0652259907",
+  "password": "qwerty12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362deee711c6538074c2023"
+  },
+  "customerNumber": "0652259907",
+  "password": "qwerty12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362e0090ebbffddff1bd895"
+  },
+  "customerNumber": "0652259907",
+  "password": "qwerty12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362e1bb4aa7570e19df2c1f"
+  },
+  "customerNumber": "0652259907",
+  "password": "qwerty12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362e3a3df7aa608e44fcada"
+  },
+  "customerNumber": "765695900",
+  "password": "qwerty12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362e3cc084790547c0a4569"
+  },
+  "customerNumber": "765695900",
+  "password": "qwerty12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362e3f3744833e02dc3f9b2"
+  },
+  "customerNumber": "765695900",
+  "password": "qwerty12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362e403da7191d59276541f"
+  },
+  "customerNumber": "765695900",
+  "password": "qwerty12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362e48d0c359332287628eb"
+  },
+  "customerName": "qwerty shuu",
+  "customerNumber": "1165695900",
+  "password": "qwerty12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362e56f45d8d6cbeb13299f"
+  },
+  "customerName": "qwerty shuu",
+  "customerNumber": "12165695900",
+  "password": "qwerty12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362e732d8ee9ce75f6a0718"
+  },
+  "customerName": "qwerty shuu",
+  "customerNumber": "123165695900",
+  "password": "qwerty12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362e948475574b401d0e847"
+  },
+  "customerName": "qwerty shuu",
+  "customerNumber": "12316543900",
+  "password": "qwerty12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362e9843cacac84b9cd8d74"
+  },
+  "customerName": "qwerty shuu",
+  "customerNumber": "12016543900",
+  "password": "qwerty12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362e9bfb1d843a7ce1f2e9b"
+  },
+  "customerName": "qwerty shuu",
+  "customerNumber": "02016543900",
+  "password": "qwerty12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362ea3e31df0f3a149f65be"
+  },
+  "customerName": "qwerty shuu",
+  "customerNumber": "82016543900",
+  "password": "qwerty12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362ec160dbde0d0bf12e674"
+  },
+  "customerName": "qwerty shuu",
+  "customerNumber": "43016543900",
+  "password": "qwerty12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362ef65bb1d029374bd6cbe"
+  },
+  "customerName": "qwerty shuu",
+  "customerNumber": "3016543900",
+  "password": "qwerty12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362ef97bb1d029374bd6cc3"
+  },
+  "customerName": "qwerty shuu",
+  "customerNumber": "016543900",
+  "password": "qwerty12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636387ca5eba404cc1800c32"
+  },
+  "customerName": "qwerty shuu",
+  "customerNumber": "9016543900",
+  "password": "qwerty12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6363b8ca15d107a834459688"
+  },
+  "customerName": "John Doe",
+  "customerNumber": "0022999097",
+  "password": "qwerty123",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6363bcffd2ef448bd21baad1"
+  },
+  "customerName": "John Doe",
+  "customerNumber": "00272999097",
+  "password": "$2b$10$2RBHZ2VW0ZWhNyb0GocylezuYPtKMCJkSXy/fUFLdfhJekcXzgjsO",
+  "__v": 0
 }]
