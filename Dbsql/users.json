@@ -131,4 +131,102 @@
   "email": "maimunaahmed374@gmail.com",
   "password": "$2b$10$dAdeRLcmwW4FwiH/GPCEruIJeMqsZj/BV6h5pajnjtMaRgodJ2/H2",
   "__v": 0
+},{
+  "_id": {
+    "$oid": "635bd2eed69f7e698d17221b"
+  },
+  "email": "magggcfe@hmail.com",
+  "password": "$2b$10$mSmsuvdoqW0TQsg7XlT.quV1jMxhZCJXwQGS7Gvd3/P8gd.xoUqSG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362d20b74cab828cff41884"
+  },
+  "email": "maimunaahmed98@gmail.com",
+  "password": "$2b$10$qG1MqFI6017xi/u60D/4Ge8HggkG.s4KXnF9RkFMHmXHOFTJBNp8.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362db9b74cab828cff4188a"
+  },
+  "email": "maimunahmed98@gmail.com",
+  "password": "$2b$10$JArlDi6UKVARPEi56IbaYuMBTtm.KDk5GiWQ7n5hj.PccuX/2gD76",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6363ae4ed80c5a16c4636d7c"
+  },
+  "email": "password@email.com",
+  "password": "$2b$10$SpKqrC8YtwKHdlm89tP/bOzBwQvsL6BdGIEJMoJ60SCnCYfd.Efe2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63654565228ea88c32dbcc2d"
+  },
+  "email": "emailfulani@ingio.com",
+  "password": "$2b$10$zZRRdBpopHpwrgj/ZuWdH.FEHuivh5g07UdvIZnrb5leefEkPJvAi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6368d90c32a37c40f44bc5f8"
+  },
+  "email": "emailfulani@india.com",
+  "password": "$2b$10$mHsiGmaL575a7/EsJxpS0.AVMNh4vXWik7xlvy.rMd5aaXMQTtP2i",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6368e5ed106177538c024039"
+  },
+  "email": "emailfulani@in.com",
+  "password": "$2b$10$FWlBPCYTK4u5oiW0s9Sove8h8CnnyCuq8Rw5s/NsEdX/23Fd6bUza",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6368eac0106177538c02403c"
+  },
+  "email": "emailone@in.com",
+  "password": "$2b$10$GwR6JG45q2QB20S86qC5F.zstbUOx5Fxed20c6R5SvFhOM2mGJCiO",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6368f14d106177538c024041"
+  },
+  "email": "emailfulani@kenya.com",
+  "password": "$2b$10$hGwpxxGGQ6cGf0GFoajW0eRJCktDc5/MGsNCxA9OgQyI1W5pZG5E6",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6368f424106177538c024049"
+  },
+  "email": "emailfulani@tz.com",
+  "password": "$2b$10$81gUsysJwuMyR2uO2yUKlOAtumBhhTj.fHiUuUYANJVKk0cc53oKO",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6368ff1f106177538c02404d"
+  },
+  "email": "emailfull@india.com",
+  "password": "$2b$10$mu4/3gY.T0x1.g869Pddw.DcRCdpliIENV7gRIIBlVsohqFM7Ap7G",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636900a5106177538c024051"
+  },
+  "email": "name@gmail.com",
+  "password": "$2b$10$VE59TxG.ncx.KOiYKA3bgeEmYThoEQDRcx9d4mcu27fAqsR/.F8/2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a1ab430f35b73cd27d2fb"
+  },
+  "email": "indiakenya@tz.com",
+  "password": "$2b$10$xhB5hKF7Km4E4YmqIKZ3r.SkvFkI1aj3WpQtWHuWWEWUmOINa2V2e",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a1d5e30f35b73cd27d2fe"
+  },
+  "email": "qwerty@azerty.com",
+  "password": "$2b$10$fqFy4p2ySUrBWudFepeqsOlTFm2D2ZChF6WoQREZVVdkaOWw9eLlC",
+  "__v": 0
 }]
