@@ -229,4 +229,25 @@
   "email": "qwerty@azerty.com",
   "password": "$2b$10$fqFy4p2ySUrBWudFepeqsOlTFm2D2ZChF6WoQREZVVdkaOWw9eLlC",
   "__v": 0
+},{
+  "_id": {
+    "$oid": "636ba6e7a4bff7a9c790b05a"
+  },
+  "email": "emaiiilfull@india.com",
+  "password": "$2b$10$DvXDroJEXrkUhimGFl5Aq.3GcLPNcj80ktai7.8Zgkqda7c7Km7le",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636c146c2e1ba5da8744191c"
+  },
+  "email": "egaiilfull@india.com",
+  "password": "$2b$10$PezOY68iRdFRntizgScfvOfu3ENtlpIfANLDKg5QfhlT2Hjb1T6Ku",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636f47c44c8791d2fdca4640"
+  },
+  "email": "qwerty@gmail.com",
+  "password": "$2b$10$gc3VN735ErPgaa63oKP0WemksAtfz8GRgYh9554hhwnMkyYEGnjHK",
+  "__v": 0
 }]
