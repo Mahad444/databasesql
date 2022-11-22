@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "637cbebd29c1d9fc646ec0a9"
+  },
+  "firstName": "Mahad",
+  "lastName": "Said",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637cc02fd69f37453c2c2372"
+  },
+  "firstName": "ronaldo",
+  "lastName": "Suiii",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637cd994aa1efb83120155da"
+  },
+  "firstName": "Mahad",
+  "lastName": "Said",
+  "phoneNumber": "0974534253",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637cd9d01a0e2fe15096d788"
+  },
+  "firstName": "Kamau",
+  "lastName": "Mbugua",
+  "phoneNumber": "0974534253",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637cec2f7cc3e6c967a1b9ba"
+  },
+  "firstName": "Khadija",
+  "lastName": "DO",
+  "phoneNumber": "07544322312",
+  "__v": 0
+}]
