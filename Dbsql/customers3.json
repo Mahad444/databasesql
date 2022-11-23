@@ -36,4 +36,70 @@
   "lastName": "DO",
   "phoneNumber": "07544322312",
   "__v": 0
+},{
+  "_id": {
+    "$oid": "637cfa0073d92cf691863019"
+  },
+  "firstName": "Khadija",
+  "lastName": "DO",
+  "phoneNumber": "07544322312",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637df05e42653537724e915f"
+  },
+  "firstName": "ronaldo",
+  "lastName": "Suiii",
+  "phoneNumber": "098634515434",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637dff97b184d97c044f3670"
+  },
+  "firstName": "Mohaa",
+  "lastName": "mmoja",
+  "email": "legendfulani@gmail.com",
+  "password": "qwerty1234",
+  "phoneNumber": "0987654321",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637e003108aa2dae824f77fc"
+  },
+  "firstName": "Mohaa",
+  "lastName": "mmoja",
+  "email": "legendfulani@india.com",
+  "password": "qwerty1234",
+  "phoneNumber": "0987654321",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637e0121e269a683f66894c4"
+  },
+  "firstName": "Mohaa",
+  "lastName": "mmoja",
+  "email": "legendfulani@kenya.com",
+  "password": "qwerty1234",
+  "phoneNumber": "0987654321",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637e03be0aea8c4f0db691a6"
+  },
+  "firstName": "Mohaa",
+  "lastName": "mmoja",
+  "email": "legendfulani@tz.com",
+  "password": "qwerty1234",
+  "phoneNumber": "0981654321",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637e41ea10a73e7f04c3a25c"
+  },
+  "firstName": "Mohaa",
+  "lastName": "mmoja",
+  "email": "legendfulani@ug.com",
+  "password": "qwerty1234",
+  "phoneNumber": "0938654321",
+  "__v": 0
 }]
