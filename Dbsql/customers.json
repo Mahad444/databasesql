@@ -1,0 +1,145 @@
+[{
+  "_id": {
+    "$oid": "637cbebd29c1d9fc646ec0a9"
+  },
+  "firstName": "Mahad",
+  "lastName": "Said",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637cc02fd69f37453c2c2372"
+  },
+  "firstName": "ronaldo",
+  "lastName": "Suiii",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637cd994aa1efb83120155da"
+  },
+  "firstName": "Mahad",
+  "lastName": "Said",
+  "phoneNumber": "0974534253",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637cd9d01a0e2fe15096d788"
+  },
+  "firstName": "Kamau",
+  "lastName": "Mbugua",
+  "phoneNumber": "0974534253",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637cec2f7cc3e6c967a1b9ba"
+  },
+  "firstName": "Khadija",
+  "lastName": "DO",
+  "phoneNumber": "07544322312",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637cfa0073d92cf691863019"
+  },
+  "firstName": "Khadija",
+  "lastName": "DO",
+  "phoneNumber": "07544322312",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637df05e42653537724e915f"
+  },
+  "firstName": "ronaldo",
+  "lastName": "Suiii",
+  "phoneNumber": "098634515434",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637dff97b184d97c044f3670"
+  },
+  "firstName": "Mohaa",
+  "lastName": "mmoja",
+  "email": "legendfulani@gmail.com",
+  "password": "qwerty1234",
+  "phoneNumber": "0987654321",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637e003108aa2dae824f77fc"
+  },
+  "firstName": "Mohaa",
+  "lastName": "mmoja",
+  "email": "legendfulani@india.com",
+  "password": "qwerty1234",
+  "phoneNumber": "0987654321",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637e0121e269a683f66894c4"
+  },
+  "firstName": "Mohaa",
+  "lastName": "mmoja",
+  "email": "legendfulani@kenya.com",
+  "password": "qwerty1234",
+  "phoneNumber": "0987654321",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637e03be0aea8c4f0db691a6"
+  },
+  "firstName": "Mohaa",
+  "lastName": "mmoja",
+  "email": "legendfulani@tz.com",
+  "password": "qwerty1234",
+  "phoneNumber": "0981654321",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637e41ea10a73e7f04c3a25c"
+  },
+  "firstName": "Mohaa",
+  "lastName": "mmoja",
+  "email": "legendfulani@ug.com",
+  "password": "qwerty1234",
+  "phoneNumber": "0938654321",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63833d6c98eeb654f06e3cf6"
+  },
+  "firstName": "Mbwa",
+  "lastName": "Dog",
+  "email": "qwerty123@india.com",
+  "password": "$2b$10$B/4m3vyjPyn0yUHsOgRqE.3q3Nu8q80QxzqjLMY/Hoz4cFVM10s7q",
+  "phoneNumber": "0987755646",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63834279b03251cb1b8e7d13"
+  },
+  "firstName": "Mbwa",
+  "lastName": "Dog",
+  "email": "qwerty12@india.com",
+  "password": "$2b$10$Y6N.jCfp.5xBj2uwOUnBduHyRq28n.l0ieeFaZ5sXAVrhIP7Cl1xW",
+  "phoneNumber": "0987755667",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6384b13c88265e278a562f0d"
+  },
+  "firstName": "Samuel",
+  "lastName": "Mbugua",
+  "email": "mbuguasam@hotmail.com",
+  "password": "$2b$10$lsvtg9rY2LEm39RJs4OnPuSQII8cllTVf1lVnjfewAvBAOHJn7R02",
+  "phoneNumber": "0987651221",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63858448ce8304097681b803"
+  },
+  "firstName": "Samuel",
+  "lastName": "Mbugua",
+  "email": "mbuguasammy@hotmail.com",
+  "password": "$2b$10$xd7tv745CjIh9yCfWN5qY.RWGihmzW2yywW8jHlQEBgj6HKnJn2p6",
+  "phoneNumber": "0987651671",
+  "__v": 0
+}]
