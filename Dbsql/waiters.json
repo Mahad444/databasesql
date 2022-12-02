@@ -173,4 +173,42 @@
   "pass": "$2b$10$.KwL5edz7Et4d9xl.BsvIuGoCM32GL30ym0L7IGnOgAsQtc1PmhVG",
   "Name": "Sakaara",
   "__v": 0
+},{
+  "_id": {
+    "$oid": "638842ee8d2c4ca44ebd1f66"
+  },
+  "pass": "$2b$10$COT5mS8RJOM0fn0avG/KcuAOC5m8J/1uwSMz99pnXTWh3i.CsyRcu",
+  "Name": "Sakaara",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6389f21dff9af4a84054f5f9"
+  },
+  "secret": "$2b$10$FJT6lAEOkX.Vbpcep9rhLeEjdAaTPoU2TMmm9YWZCZovItXmlovj2",
+  "pass": "AW123496",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638a267efbab7f44e6fce9c2"
+  },
+  "secret": "$2b$10$ifQqkTNzq/kdsbYb1kW1auUpt1.9b5z7NhTF0WZ6wBZm0fGiis6Ki",
+  "pass": "AS123496",
+  "Name": "Raphael",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638a284010802d03282abecf"
+  },
+  "secret": "$2b$10$25rlFx8jV.P56Jtc.o/9sOd0rAgi.C90s3kFDUk6WDTWomoW/uiE2",
+  "pass": "DS123496",
+  "Name": "Raphael",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638a2c59314a2ff274d974e6"
+  },
+  "secret": "$2b$10$DcphOQZ1nibvKQRt5Bf37uRAnn8soEcSKJ0VeYRohnlxj.eEsUSn6",
+  "pass": "DSI23496",
+  "Name": "Ronaldo",
+  "__v": 0
 }]
