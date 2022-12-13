@@ -94,4 +94,12 @@
   "drinkType": "soda",
   "quantity": "2plates",
   "__v": 0
+},{
+  "_id": {
+    "$oid": "6394cd405b8603fe8e2f3c02"
+  },
+  "foodType": "Pizza",
+  "drinkType": "coffee",
+  "quantity": "9",
+  "__v": 0
 }]

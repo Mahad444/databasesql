@@ -142,4 +142,34 @@
   "password": "$2b$10$xd7tv745CjIh9yCfWN5qY.RWGihmzW2yywW8jHlQEBgj6HKnJn2p6",
   "phoneNumber": "0987651671",
   "__v": 0
+},{
+  "_id": {
+    "$oid": "638a3d1f6608c9ba256043e4"
+  },
+  "firstName": "Arafat",
+  "lastName": "Said",
+  "email": "arafat@hotmail.com",
+  "password": "$2b$10$waFXwaY.OD3HSV1DZneGJumk50qvNk7iFWHgNJRgkN20UHhg86AQe",
+  "phoneNumber": "0987653237",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638cbf8045c2b2d2bdf97cbe"
+  },
+  "firstName": "Kamau",
+  "lastName": "Musyokaa",
+  "email": "musyokaamarua@gmail.com",
+  "password": "$2b$10$R/E8RhCouU2ddUTe665.DeyXL75Z8MuePVBbJuEZXHIwI.Al3Bwma",
+  "phoneNumber": "0765312234",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638f4f51a56194161aa9539a"
+  },
+  "firstName": "hudheifa",
+  "lastName": "said",
+  "email": "hudheifasaid@gmail.com",
+  "password": "$2b$10$2xrOc5AO0WK6e3TbSdsMGOJuW4H.lCECqtDgO5Z79khviuxAxhzjS",
+  "phoneNumber": "0567432134",
+  "__v": 0
 }]

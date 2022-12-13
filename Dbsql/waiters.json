@@ -211,4 +211,12 @@
   "pass": "DSI23496",
   "Name": "Ronaldo",
   "__v": 0
+},{
+  "_id": {
+    "$oid": "638f541639f3dda60ffc1416"
+  },
+  "secret": "$2b$10$ZKTFBeddR9Fv/R4SXfuG1uvDnpLdk.dSLK5BiEf3DYtOCfKJq5QOm",
+  "pass": "XZ123456",
+  "Name": "Ayaan",
+  "__v": 0
 }]
